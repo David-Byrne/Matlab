@@ -3,6 +3,9 @@
 ## We have git for backups!
 ##---------------------------------------------------
 
+# Excel files
+*.xlsx
+
 # Windows default autosave extension
 *.asv
 
